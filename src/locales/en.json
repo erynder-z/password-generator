@@ -1,0 +1,8 @@
+{
+  "app-title": "Secure Password Generator",
+  "length": "Length",
+  "include-uppercase": "Include uppercase letters",
+  "include-numbers": "Include numbers",
+  "include-symbols": "Include symbols",
+  "generate": "Generate"
+}
